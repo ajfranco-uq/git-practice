@@ -1,4 +1,4 @@
-gitpackage practice;
+package practice;
 
 public class Main {
 
